@@ -1,0 +1,1 @@
+<div class="footer"><h2><strong> &copy; 2020 All rights reserved.</strong></h2></div>
