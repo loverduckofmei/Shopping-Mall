@@ -60,7 +60,7 @@
 						String gdCs = null;
 						while(rs2.next()){
 							System.out.println(rs2.getString(1));
-							System.out.println(rs2.getString(2));
+
 							System.out.println(rs2.getString(3));
 							if(rs2.getString(1).equals("null")){
 					%>
